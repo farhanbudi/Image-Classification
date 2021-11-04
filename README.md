@@ -20,7 +20,7 @@ The steps taken in this project are:
 
 This code can run on Google Colaboratory [here](https://drive.google.com/drive/folders/1m_m9NDipJ1yzMZAW8yEAwH0TDF8HFZNl?usp=sharing).
 
-For the results of image classification, and portfolio for this project in pdf can be accessed [here](https://drive.google.com/file/d/1Uw3DYYBzA6dc1tTyoTfIC06rQ3gQwgUi/view?usp=sharing).
+For the results of image classification, and portfolio for this project in pdf can be accessed [here](https://drive.google.com/drive/folders/1dtawkptag_mGCLDrckHtFzUEiO6caimW?usp=sharing).
 
 
 
