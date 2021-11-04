@@ -12,7 +12,7 @@ The steps taken in this project are:
 3.	Move the test data directory to the drive, so that the test data can be tested after the model is finished.
 4.	Perform pre-processing for train data and validation data with image augmentation.
 5.	Building a CNN model architecture. Build a CNN model architecture. This CNN architecture uses 2 layers of convolution layer and max-pooling layer, and then the data is entered into 2 hidden layers with 2 dropout layers. The output layer has 3 outputs. The activation function used for all layers is ReLU, while the activation function for the output layer is softmax.
-
+![CNN model](https://github.com/farhanbudi/Image-Classification/blob/main/file/CNN%20Model%20Architecture.png)
 6.	Compile the model with model.compile, using the loss function: categorical_cressentropy and the optimizer: Adam algorithm.
 7.	Train the model with model.fit by repeating 5 times (epoch = 5).
 8.	Calculating test loss and accuracy tests
